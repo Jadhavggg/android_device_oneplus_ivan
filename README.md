@@ -1,6 +1,6 @@
 <h2 align="center">Android device configuration for OnePlus Nord CE 2 5G (ivan)</h2>
 
-![banner-ivan](https://telegra.ph/file/ed5c8cbd91ac3dd7739b3.jpg)
+
 
 ### Information
 
