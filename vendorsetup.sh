@@ -8,16 +8,13 @@ sleep 1
 
 
 # Clone kernel
-git clone https://github.com/Jadhavggg/android_kernel_oneplus_6877 -b kernel/oneplus/mt6877
-
-
-
+git clone https://github.com/Jadhavggg/android_kernel_oneplus_6877 -b oneplus/mt6877_s_12.1_ivan kernel/oneplus/mt6877
 
 # Clone vendor
-git clone https://github.com/Jadhavggg/android_vendor_oneplus_ivan -b pixel vendor/oneplus/ivan
+git clone https://github.com/Jadhavggg/android_vendor_oneplus_ivan -b main vendor/oneplus/ivan
 
 # Hardware
-git clone https://github.com/Jadhavggg/android_hardware_oplus -b hardware/oplus
+git clone https://github.com/Jadhavggg/android_hardware_oplus -b lineage-18.1 hardware/oplus
 
 
 
